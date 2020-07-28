@@ -9,7 +9,7 @@ Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma A
 - Envie um e-mail para daniellopes@rits.com.br como o assunto "Desafio desenvolvedor Backend" seguido da senioridade que desejará ser avaliado (Júnior, Pleno ou Sênior).
 
 ## Sobre o problema
-O Sistema deverá contemplar os módulos: Cliente, Produto e Pedido. Um Pedido pertence a um Cliente, e contém vários produtos.
+O Sistema deverá contemplar os módulos: __Cliente__, __Produto__ e __Pedido__. Um __Pedido__ pertence a um __Cliente__, e contém vários __Produtos__.
 
 A API será utilizada para o _client_ que irá realizar os pedidos. Nesse sentido, ela deverá conter _endpoints_ para que um __Cliente__ possa se cadastrar. Além de `criar`, `listar`, `ver` e `excluir` __Pedidos__ de um __Cliente__ específico. Obs.: Para evitar autenticação, o id do __Cliente__ pode ser usado como parâmetro para realizar essas ações.
 
