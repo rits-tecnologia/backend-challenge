@@ -36,7 +36,8 @@ O __Pedido__ poderá conter os `status`: `Pendente`, `Em preparo`, `Em entrega`,
 - Testes unitários;
 - Estrutura pra subir a aplicação com `DockerFile` ou `docker-compose`;
 - Um _bot_ no Telegram, que recebe quando um __Pedido__ é criado ou cancelado;
-- Aplicação de padrões de projeto como `Repository`, `Service Layer` ou `Command Pattern`.
+- Aplicação de padrões de projeto como `Repository`, `Service Layer` ou `Command Pattern`;
+- Uma notificação em tempo real de quando um __Pedido__ for criado ou cancelado.
 
 ## Critérios de avaliação
 - Profundidade de conhecimento do framework;
