@@ -1,7 +1,7 @@
 # Backend Challenge - Rits Tecnologia
 Desafio para desenvolvedor backend para Rits Tecnologia.
 
-Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma API RESTFul para criar pedidos de uma lanchonete, e um painel administrativo para cadastrar os produtos e gerenciar os pedidos.
+Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma API RESTFul, utilizando __Laravel__ para criar pedidos de uma lanchonete, e um painel administrativo para cadastrar os produtos e gerenciar os pedidos.
 
 ## Instruções para entrega
 - Seu código deverá ser versionado com Git e hospedado no GitHub;
