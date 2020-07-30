@@ -24,7 +24,8 @@ O __Pedido__ poderá conter os `status`: `Pendente`, `Em preparo`, `Em entrega`,
 
 ## Requisitos para Desenvolvedor Júnior
 - Não poderá existir mais de um __Cliente__ com o mesmo `email` ou `telefone`;
-- Todos os dados deverão ser validados.
+- Todos os dados deverão ser validados;
+- Um __Cliente__ não pode excluir um __Pedido__ criado por outro __Cliente__.
 
 ## Requisitos para Desenvolvedor Pleno
 - Todos os requisitos do programador Júnior;
