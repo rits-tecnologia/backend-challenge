@@ -1,7 +1,7 @@
 # Backend Challenge - Rits Tecnologia
 Desafio para desenvolvedor backend para Rits Tecnologia.
 
-Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma API RESTFul, utilizando __Laravel__ para criar pedidos de uma lanchonete, e um painel administrativo para cadastrar os produtos e gerenciar os pedidos.
+Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma API RESTFul, para criar pedidos de uma lanchonete, e um painel administrativo para cadastrar os produtos e gerenciar os pedidos.
 
 ## Instruções para entrega
 - Seu código deverá ser versionado com Git e hospedado no GitHub;
@@ -41,6 +41,6 @@ O __Pedido__ poderá conter os `status`: `Pendente`, `Em preparo`, `Em entrega`,
 - Uma notificação em tempo real de quando um __Pedido__ for criado ou cancelado.
 
 ## Critérios de avaliação
-- Profundidade de conhecimento do framework;
+- Profundidade de conhecimento do framework escolhido;
 - Organização do código;
 - Fidelidade aos requisitos;
