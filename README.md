@@ -22,16 +22,10 @@ Os campos para cada entidade serão:
 
 O __Pedido__ poderá conter os `status`: `Pendente`, `Em preparo`, `Em entrega`, `Entregue` e `Cancelado`.
 
-## Requisitos para Desenvolvedor Júnior
+## Requisitos
 - Não poderá existir mais de um __Cliente__ com o mesmo `email` ou `telefone`;
 - Todos os dados deverão ser validados;
 - Um __Cliente__ não pode excluir um __Pedido__ criado por outro __Cliente__.
-
-## Requisitos para Desenvolvedor Pleno
-- Todos os requisitos do programador Júnior;
-- A cada troca de `status` do __Pedido__, o __Cliente__ deverá ser notificado por e-mail do `status` do seu __Pedido__;
-- Quando um __Pedido__ for criado, um e-mail deverá ser disparado para um e-mail pré-configurado no `.env` da aplicação;
-- Os disparos de e-mail deverão ser processados por uma _queue_ à parte.
 
 ## Diferenciais
 - Testes unitários;
