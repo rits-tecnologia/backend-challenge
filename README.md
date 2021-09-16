@@ -6,7 +6,7 @@ Por esse desafio, o desenvolvedor deverá mostrar ser capaz de desenvolver uma A
 ## Instruções para entrega
 - Seu código deverá ser versionado com Git e hospedado no GitHub;
 - Crie um README.md explicando como solucionou o problema, como poderemos executar e outros pontos que achar necessário;
-- Envie um e-mail para daniellopes@rits.com.br com o assunto "Desafio desenvolvedor Backend" seguido da senioridade que desejará ser avaliado (Júnior, Pleno ou Sênior).
+- Envie um e-mail para daniellopes@rits.com.br com o assunto "Desafio desenvolvedor Rits".
 
 ## Sobre o problema
 O Sistema deverá contemplar os módulos: __Cliente__, __Produto__ e __Pedido__. Um __Pedido__ pertence a um __Cliente__ e um __Pedido__ contém vários __Produtos__.
